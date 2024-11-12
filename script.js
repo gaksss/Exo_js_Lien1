@@ -16,3 +16,9 @@
 // panier.forEach((article) => {
 //   console.log(article);
 // });
+
+// EXERCICE 4
+
+// for (let pairs =  2; pairs <= 20; pairs += 2){
+//     console.log(pairs)
+// }
