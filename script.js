@@ -22,3 +22,10 @@
 // for (let pairs =  2; pairs <= 20; pairs += 2){
 //     console.log(pairs)
 // }
+
+
+// EXERCICE 5 
+
+const mot = "bonjour";
+const voyelles = []
+
