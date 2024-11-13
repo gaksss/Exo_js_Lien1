@@ -23,9 +23,10 @@
 //     console.log(pairs)
 // }
 
+// EXERCICE 5
 
-// EXERCICE 5 
-
-const mot = "bonjour";
-const voyelles = []
-
+// const mot = "bonjour";
+// var regex = /["a"-"e"-"i"-"o"-"u"-"y"]/g;
+// console.log(
+//   "le nombre de voyelles dans le mot " + mot + " est " + mot.match(regex).length
+// );
