@@ -47,3 +47,21 @@
 // console.log(
 //   "Le nombre d'apparition de chaque lettres dans la phrase est " , count
 // );
+
+
+// EXERCICE 7
+
+// let chiffres = [40,-59,42,69,-38];
+// let positif = [];
+// let negatif = [];
+
+// for(let index = 0; index < chiffres.length; index++){
+//     if(chiffres[index] < 0){
+
+//         negatif.push(chiffres[index]);
+//     }
+//     else{
+//         positif.push(chiffres[index])
+//     }
+// }
+// console.log("Les chiffres positifs sont " + positif + " et les chiffres négatifs sont " + negatif)
