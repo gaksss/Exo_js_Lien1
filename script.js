@@ -30,3 +30,20 @@
 // console.log(
 //   "le nombre de voyelles dans le mot " + mot + " est " + mot.match(regex).length
 // );
+
+// EXERCICE 6
+
+// const phrase = "Bonjour je m'appelle Clement"
+// let count = {}
+
+// for (let index = 0; index < phrase.length; index++) {
+//   let ch = phrase.charAt(index);
+//   if (!count[ch]) {
+//     count[ch] = 1;
+//   } else {
+//     count[ch] += 1;
+//   }
+// }
+// console.log(
+//   "Le nombre d'apparition de chaque lettres dans la phrase est " , count
+// );
