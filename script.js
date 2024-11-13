@@ -78,3 +78,12 @@
 
 // }
 // console.log("Le nombre le plus grand est " + compare)
+
+
+// EXERCICE 9
+
+// let mot = prompt("Donne un mot");
+// let separateur = mot.split("");
+// separateur.reverse()
+
+// console.log(separateur)
