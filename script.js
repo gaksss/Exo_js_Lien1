@@ -48,7 +48,6 @@
 //   "Le nombre d'apparition de chaque lettres dans la phrase est " , count
 // );
 
-
 // EXERCICE 7
 
 // let chiffres = [40,-59,42,69,-38];
@@ -65,3 +64,17 @@
 //     }
 // }
 // console.log("Les chiffres positifs sont " + positif + " et les chiffres négatifs sont " + negatif)
+
+// EXERCICE 8
+
+// let nombres = [4,6,1,8,7];
+// let compare = nombres[0];
+
+// for(let i = 0; i < nombres.length; i++){
+    
+//     if(nombres[i] > compare ){
+//         compare = nombres[i]
+//     } 
+
+// }
+// console.log("Le nombre le plus grand est " + compare)
